@@ -9,10 +9,6 @@ import java.util.Queue;
 import java.util.Stack;
 
 /*
- * Proyecto: Analizador Estadistico de Calidad de Frutas
- * Archivo: Main.java
- * Requiere: JDK 21 (tambien funciona con versiones modernas de Java).
- *
  * Incluye:
  * - Vector: arreglo con las calidades observadas.
  * - Matriz: arreglo bidimensional con las variables numericas.
